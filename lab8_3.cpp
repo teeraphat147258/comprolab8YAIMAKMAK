@@ -8,8 +8,8 @@ char before(char x){
 		}     
 		if(x <= 'Z' && x > 'A'){
 			char y = x-1;         
-			return y;     }
-		else{
+			return y;     
+		}else{
 			return n;     
 			} 
 }
